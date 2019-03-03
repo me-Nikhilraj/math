@@ -1,5 +1,5 @@
 #include<stdio.h>
-//addition and substraction
+//addition and substraction and multiply
 void mul()
 {
   printf("mul function");
