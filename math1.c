@@ -1,7 +1,8 @@
 #include<stdio.h>
-void add()
+//addition and substraction
+void mul()
 {
-  printf("add function");
+  printf("mul function");
 }
 
 void sub()
@@ -10,6 +11,6 @@ void sub()
 }
 void main()
 {
-add();
+mul();
 sub();
 }
